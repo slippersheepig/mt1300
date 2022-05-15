@@ -1,4 +1,4 @@
-name: mip24kc-config
+name: mips-config
 
 on:
   workflow_dispatch:
