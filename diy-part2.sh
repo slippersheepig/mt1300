@@ -32,4 +32,4 @@ sed -i 's@.*CYXluq4wUazHjmCDBCqXF*@#&@g' package/lean/default-settings/files/zzz
 git clone https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom package/luci-theme-infinityfreedom
 
 #替换dns2tcp的默认Makefile
-wget https://raw.githubusercontent.com/sbwml/openwrt_helloworld/v5/dns2tcp/Makefile -O package/feeds/passwall_packages/dns2tcp/Makefile
+#wget https://raw.githubusercontent.com/sbwml/openwrt_helloworld/v5/dns2tcp/Makefile -O package/feeds/passwall_packages/dns2tcp/Makefile
